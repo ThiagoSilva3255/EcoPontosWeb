@@ -20,7 +20,7 @@
 }
 
 .banner1 img {
-    width: 400px;
+    width: 300px;
 }
 
 .banner2 {
@@ -32,12 +32,12 @@
     flex-direction: row-reverse;
     align-items: center; 
     line-height: 30px;
-    gap: 10rem;    
+    gap: 2rem;    
     font-weight: bold; 
 }
 
 .banner2 img {
-    width: 300px;
+    width: 200px;
 }
 
 @media (max-width:900px) {
