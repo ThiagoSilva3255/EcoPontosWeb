@@ -11,7 +11,7 @@ const CTA = () => {
       </p>
       <div className="CTA_links">
         <LinkRoute
-          classe="buttonGreen buttonBig"
+          classe="buttonGreen buttonBig btn-animated"
           caminho="/SignUp"
           nome="Começar"
         />

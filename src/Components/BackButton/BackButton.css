@@ -1,0 +1,15 @@
+.backBtn img {
+    width: 24px; 
+    height: 24px;   
+}
+
+.backBtn {
+    border: none;
+    cursor: pointer;
+    background-color: transparent;
+}
+
+.backBtn:hover {
+   border: 2px solid #344011;
+   border-radius: 20%;
+}

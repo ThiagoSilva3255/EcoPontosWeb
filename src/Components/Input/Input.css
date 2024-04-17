@@ -1,0 +1,14 @@
+@import url(../../VariablesStyle.css);
+input {
+    border: 1px solid var(--color-tertiary) ;
+    background-color: white;
+    border-radius: 36px;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    width: 300px;
+    height: 40px;
+}
+input:hover {
+    border: 2px solid var(--color-tertiary);
+}

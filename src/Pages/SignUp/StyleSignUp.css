@@ -1,0 +1,31 @@
+@import url(../../VariablesStyle.css);
+
+.signUp-conteiner {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 10rem;
+    width: 100%;
+    height: 100vh;
+}
+
+.signUp-conteiner section {
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    justify-content: flex-end;
+    padding: 3%;
+    gap: 2rem;
+}
+
+.voltarTitulo {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+}
+
+.voltarTitulo h1 {
+    font-family: var(--font-title);
+    font-size: 24px;
+    color: var(--color-tertiary);
+}

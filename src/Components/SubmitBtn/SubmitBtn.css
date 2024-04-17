@@ -1,0 +1,9 @@
+@import url(../../VariablesStyle.css);
+.btnSub {
+    width: 305.8px;
+    height: 43.85px;
+    border: 1px solid var(--color-tertiary);
+    border-radius: 36px;
+    color: var(--color-tertiary);
+    background-color: var(--color-primary);
+}
